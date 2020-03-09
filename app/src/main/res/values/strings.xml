@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsTests</string>
+    <string name="btnMainText">Go to Second Activity</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="enter_height">Enter height</string>
+</resources>
